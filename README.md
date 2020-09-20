@@ -19,3 +19,9 @@ at once.<br>
 <br>
 5. msf5 > <h4>exploit/multi/handler module</h4>
 6. Run scan_drop.py <h4>Scan, Dictionary Attack, RCE. </h4>
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
